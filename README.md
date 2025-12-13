@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![SticcyGem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sticcygem)]
+![SticcyGem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sticcygem)
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,java,kotlin,spring,postgres,astro)](https://skillicons.dev)
 
 <!--
 **SticcyGem/SticcyGem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
