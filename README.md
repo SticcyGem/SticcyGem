@@ -8,6 +8,3 @@ A 2nd Year Computer Science Student in Pamantasan ng Lungsod ng Maynila
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres)](https://skillicons.dev)
-
-## 📊 Github Stats
-![SticcyGem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sticcygem&show_icons=true&theme=onedark)
